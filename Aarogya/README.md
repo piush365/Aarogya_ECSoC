@@ -800,6 +800,8 @@ We're building Aarogya in the open and welcome contributions from everyone!
 
 \- \[Architecture Decisions](docs/adr/)
 
+\- \[Frequently Asked Questions](FAQ.md)
+
 
 
 \---
